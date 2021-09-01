@@ -14,3 +14,9 @@ body{
     background-color: teal;
     border: 1px dotted red;
 }
+.products{
+    display: flex;
+}
+.header{
+    text-align: center;
+}
