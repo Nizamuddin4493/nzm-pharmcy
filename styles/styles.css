@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    color: rgba(216, 215, 215, 0.39);
+}
+.conatiner{
+    width: auto;
+    height: auto;
+    max-width: 1024px;
+    max-height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    color: white;
+    background-color: teal;
+    border: 1px dotted red;
+}
